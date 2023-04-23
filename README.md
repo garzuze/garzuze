@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is Lucas</h1>
-<h3 align="center">Python enthusiast</h3>
+<h3 align="center">I am a Python enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Visualization with Python**
 

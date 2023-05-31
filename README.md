@@ -1,9 +1,9 @@
 <h1 align="center">Hi! My name is Lucas</h1>
 <h3 align="center">I am a Python enthusiast</h3>
 
-- 🌱 I’m currently learning: **Data Visualization with Python**
+- 🌱 I’m currently learning: **Django**
 
-- 🤝 I’m looking for help with: **Data Science and Python**
+- 🤝 I’m also interested in: **Data Science and Python**
 
 - 📫 How to reach me: **lucasgarzuze@gmail.com**
 

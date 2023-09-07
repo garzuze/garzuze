@@ -9,13 +9,13 @@
 <h3 align="center">Tenho mais afinidade com:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,django" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,django,php" />
   </a>
 </p>
 
 <h3 align="center">Sei o básico de:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,linux,mysql,php" />
+      <img src="https://skillicons.dev/icons?i=c,java,linux,mysql" />
   </a>
 </p>

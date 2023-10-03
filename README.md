@@ -1,7 +1,7 @@
-<h1 align="center">Prazer, Lucas Garzuze Cordeiro!</h1>
+ <h1 align="center">Prazer, Lucas Garzuze Cordeiro!</h1>
 
-- 🐍 Atualmente, estou aprendendo Django, um framework em Python de web.
-- 🐘 Além disso, estou aprendendo PHP nas aulas de desenvolvimento web!
+- 🐍 Atualmente, estou trabalhando como programador Python, desenvolvendo scripts de automação.
+- 🐘 Além disso, também estou trabalhando no meu TCC, um sistema de comunicação escolar abrangente!
 - 🤝 Também tenho interesse em Ciência de Dados com Python.
 
 - 📫 Você pode entrar em comigo pelo e-mail: **lucasgarzuze@gmail.com**

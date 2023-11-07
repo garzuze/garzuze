@@ -9,7 +9,7 @@
 <h3 align="center">Tenho mais afinidade com:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,html,css,js,jquery,tailwind,django,php" />
+      <img src="https://skillicons.dev/icons?i=py,html,css,js,jquery,tailwind,django,php&perline=4" />
   </a>
 </p>
 

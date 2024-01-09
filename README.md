@@ -1,6 +1,6 @@
  <h1 align="center">Prazer, Lucas Garzuze Cordeiro!</h1>
 
-- 🐍 Trabalho como programador Python, desenvolvendo scripts de automação.
+- 🐍 Trabalho como programador Python, desenvolvendo scripts de automação e sistemas backend com Django.
 - 🐘 Além disso, estou trabalhando no meu TCC: um sistema de comunicação escolar abrangente!
 - 🤝 Também tenho interesse em Ciência de Dados com Python.
 

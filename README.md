@@ -5,17 +5,9 @@
 - 🤝 Também tenho interesse em Ciência de Dados com Python.
 
 - 📫 Você pode entrar em comigo pelo e-mail: **lucasgarzuze@gmail.com**
-
-<h3 align="center">Tenho mais afinidade com:</h3>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,django,php,jquery,html,css,tailwind,js&perline=4" />
-  </a>
-</p>
-
-<h3 align="center">Sei o básico de:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,linux,mysql" />
+      <img src="https://skillicons.dev/icons?i=py,django,php,js,tailwind&perline=5" />
   </a>
 </p>

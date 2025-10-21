@@ -1,5 +1,5 @@
 ## About Me
-Hello World! I’m a driven Software Developer with hands‑on experience building web applications across diverse domains.
+Hello World! I’m a driven Software Engineer with hands‑on experience building web applications across diverse domains.
 
 Despite my young age I've been building since 2021, when I had my first contact with coding at high school. Since then, I've been improving my problem solving skills and contributing to different projects.
 

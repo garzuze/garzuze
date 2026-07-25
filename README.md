@@ -1,6 +1,6 @@
 ## About Me [[garzuze.com]](https://garzuze.com)
 
-I’m a Software Engineer with experience building web applications across diverse domains.
+I’m a Software Engineer with experience building server-side applications across diverse domains.
 
 Despite my young age I've been building since 2021, when I had my first contact with coding at high school. Since then, I've been improving my problem solving skills and contributing to different projects.
 
